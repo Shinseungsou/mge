@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-EwhaNote::Application.config.secret_token = 'a867ed0569ca09aea7e9ee747320e26949d098fb3efd68c083fa3a117e9419257b9f97b6fc3c3b3f1a99c67daf45903572a7059d9b0706894c6e87e519600d74'
+EwhaNote::Application.config.secret_token = '752799953cdd02e79d9962b5286690c6a7682c994943848c71be577f2ea313dd4414c738b5893aeedad10522ce6bb30a78caecd8b9059544b0c87c2ad32d203a'
